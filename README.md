@@ -45,6 +45,6 @@ Check my Startup Site:
 
 ![Manti-Core Logo](http://manti-core.com/wp-content/uploads/2016/02/Footer-300x58.png "Logo  from Manti-Core Ecuador")
 
-Greetins.
+Greetings.
 
 License MIT.
